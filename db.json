@@ -30,6 +30,16 @@
            "categoryId": 2,
            "name": "Bomba gasolina",
            "photoUrl": "https://cdn3.vectorstock.com/i/1000x1000/05/67/gas-station-design-vector-12200567.jpg"
+        },
+        {
+           "categoryId": 3,
+           "name": "Multibancos",
+           "photoUrl": "https://img.freepik.com/free-vector/atm-flat-illustration_16734-417.jpg?size=33"
+        },
+        {
+           "categoryId": 3,
+           "name": "Restaurantes",
+           "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsUn9xwJPigEZyu_MIF7Q9btnkKpcu-yi-Q&usqp=CAU"
         }
     ],
    
