@@ -37,10 +37,16 @@
            "photoUrl": "https://img.freepik.com/free-vector/atm-flat-illustration_16734-417.jpg?size=33"
         },
         {
-           "categoryId": 3,
+           "categoryId": 4,
            "name": "Restaurantes",
-           "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsUn9xwJPigEZyu_MIF7Q9btnkKpcu-yi-Q&usqp=CAU"
+           "photoUrl": "https://thumbs.dreamstime.com/b/vector-restaurant-design-isolated-white-background-illustration-160328591.jpg"
+        },
+        {
+           "categoryId": 5,
+           "name": "Casa de banho",
+           "photoUrl": "https://img.freepik.com/free-vector/social-distance-public-toilets_23-2148602468.jpg?size=626&ext=jpg"
         }
+        
     ],
    
    "companies": [  
