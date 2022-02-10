@@ -13,15 +13,18 @@
         "password": "caracux123"
       }
     ],
-    "categories"   {
+    "categories" [  
+        {
           "categoryId": 1,
           "name": "Super-mercados",
           "photoUrl": "",
           
+        {,
         {
            "categoryId": 2,
            "name": "Bomba gasolina",
            "photoUrl": ""
+        }
      ]
 }    
     
