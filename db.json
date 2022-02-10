@@ -26,5 +26,23 @@
            "photoUrl": "https://www.google.com/search?q=gas+statio+vector&tbm=isch&ved=2ahUKEwiAkLyG8_P1AhUR1uAKHSLFBKIQ2-cCegQIABAA&oq=gas+statio+vector&gs_lcp=CgNpbWcQA1D7B1j8L2CpMmgBcAB4AYABrQGIAfYJkgEEMTEuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=4l4EYoCXDJGsgweiipOQCg&bih=589&biw=1225&client=opera&hs=2L1&hl=pt-PT#imgrc=m2B4isLXOPoYxM"
         }
     ]
+    
+    "companies": [  
+        {
+          "companyId": 1,
+          "name": "Continente",
+          "photoUrl": "https://www.google.com/search?q=continente+logo&client=opera&hs=jWX&sxsrf=APq-WBu_Q-g5EyMnx-xON5rvGUO1zOJ1NA:1644497809618&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrjZrel_X1AhW7lf0HHayJBAoQ_AUoAXoECAEQAw&biw=1880&bih=949&dpr=1#imgrc=iA4f2dwUwG-KrM"
+          "categoryId": 1,
+          "localization": "Bomba gasolina",
+          
+        },
+        {
+          "companyId": 2,
+          "name": "Pingo Doce",
+          "photoUrl": "https://www.google.com/search?q=pingo+doce+logo&tbm=isch&ved=2ahUKEwinpsD0l_X1AhWJEGMBHcOjCdgQ2-cCegQIABAA&oq=pingo+doce+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQCBAeOgcIIxDvAxAnOgQIABBDOgQIABAYUIACWOALYPENaABwAHgAgAFziAH6A5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=wAsFYqfGFomhjLsPw8emwA0&bih=949&biw=1865&client=opera&hs=jWX&hl=pt-PT#imgrc=i9in_dh8Kd7chM"
+          "categoryId": 1,
+          "localization": "Bomba gasolina",
+        }
+    ]
 }    
     
