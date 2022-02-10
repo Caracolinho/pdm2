@@ -25,9 +25,9 @@
            "name": "Bomba gasolina",
            "photoUrl": "https://www.google.com/search?q=gas+statio+vector&tbm=isch&ved=2ahUKEwiAkLyG8_P1AhUR1uAKHSLFBKIQ2-cCegQIABAA&oq=gas+statio+vector&gs_lcp=CgNpbWcQA1D7B1j8L2CpMmgBcAB4AYABrQGIAfYJkgEEMTEuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=4l4EYoCXDJGsgweiipOQCg&bih=589&biw=1225&client=opera&hs=2L1&hl=pt-PT#imgrc=m2B4isLXOPoYxM"
         }
-    ]
-    
-    "companies": [  
+    ],
+   
+   "companies": [  
         {
           "companyId": 1,
           "name": "Continente",
