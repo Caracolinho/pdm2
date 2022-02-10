@@ -23,23 +23,22 @@
         {
           "categoryId": 1,
           "name": "Super Mercados",
-          "photoUrl": "https://cdn3.vectorstock.com/i/1000x1000/32/57/supermarket-building-icon-isometric-3d-style-vector-8473257.jpg"
+          "photoUrl": "https://img.freepik.com/free-vector/father-son-buying-food-supermarket_74855-5245.jpg?w=1060"
           
         },
         {
            "categoryId": 2,
            "name": "Bomba gasolina",
-           "photoUrl": "https://cdn3.vectorstock.com/i/1000x1000/05/67/gas-station-design-vector-12200567.jpg"
-        },
+           "photoUrl": "https://img.freepik.com/free-vector/vehicle-hydrogen-fuel-filling-service-green-energy-biodiesel-driver-characters-refueling-car-station-concept-man-pumping-h2-petrol-charging-auto-cartoon-people-vector-illustration_87771-14772.jpg?w=1060"
         {
            "categoryId": 3,
            "name": "Multibancos",
-           "photoUrl": "https://img.freepik.com/free-vector/atm-flat-illustration_16734-417.jpg?size=33"
+           "photoUrl": "https:/img.freepik.com/free-vector/people-atm-line-male-female-clients-characters-stand-queue-bank-waiting-turn-draw-put-money-automated-teller-machine-transaction-banking-services-cartoon-vector-illustration_87771-15389.jpg?w=1060"
         },
         {
            "categoryId": 4,
            "name": "Restaurantes",
-           "photoUrl": "https://thumbs.dreamstime.com/b/vector-restaurant-design-isolated-white-background-illustration-160328591.jpg"
+           "photoUrl": "https://img.freepik.com/free-vector/people-eating-food-court-cafeterias_74855-5284.jpg?w=1060"
         },
         {
            "categoryId": 5,
