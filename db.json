@@ -13,7 +13,7 @@
         "password": "caracux123"
       }
     ],
-    "categories": [  
+    "category": [  
         {
           "categoryId": 1,
           "name": "Super-mercados",
